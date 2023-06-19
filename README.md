@@ -10,8 +10,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 For each hour block, enter in a task that needs to be completed. Hitting the save button on the right side will save it so that after reloading the page, the task will remain.
 
 ![alt text](assets/images/screenshot.png)

@@ -12,7 +12,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 For each hour block, enter in a task that needs to be completed. Hitting the save button on the right side will save it so that after reloading the page, the task will remain.
 
-![alt text](assets/images/screenshot.png)
+![alt text](/Assets/images/screenshot.png)
 
 ## License
 
